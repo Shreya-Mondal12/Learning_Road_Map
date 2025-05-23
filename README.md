@@ -4,7 +4,7 @@
 
 ## Overview
 
-**CareerAtlas** is a modern, interactive platform that helps users visualize and follow curated learning roadmaps. Whether you're a beginner or an advanced learner, CareerAtlas guides you through milestones, resources, and progress tracking to achieve your learning goals efficiently.
+**CareerAtlas** is a modern, interactive **front-end** based platform that helps users visualize and follow curated learning roadmaps. Whether you're a beginner or an advanced learner, CareerAtlas guides you through milestones, resources, and progress tracking to achieve your learning goals efficiently.
 
 ---
 
