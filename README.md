@@ -1,12 +1,70 @@
-# React + Vite
+# CareerAtlas - Learning Roadmaps
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[![Netlify Status](https://api.netlify.com/api/v1/badges/your-netlify-badge/deploy-status)](https://your-netlify-deploy-link.netlify.app)
 
-Currently, two official plugins are available:
+## Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**CareerAtlas** is a modern, interactive platform that helps users visualize and follow curated learning roadmaps. Whether you're a beginner or an advanced learner, CareerAtlas guides you through milestones, resources, and progress tracking to achieve your learning goals efficiently.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Live Demo
+
+Check out the live site here:  
+🔗 [https://your-netlify-deploy-link.netlify.app](https://learning-road-map.netlify.app/)
+
+---
+
+## Features
+
+- Responsive UI with light/dark mode toggle  
+- Interactive filter bar for categories and difficulty levels  
+- Progress tracking with milestone completion  
+- Accordion-style learning path display  
+- Resource badges and links for each milestone  
+- Smooth animations and transitions for enhanced UX
+
+---
+
+## Technologies Used
+
+- React 18  
+- Tailwind CSS  
+- Radix UI components  
+- React Router  
+- React Query  
+- Vite (build tool)  
+- Netlify (for deployment)
+
+---
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js (v16 or above)  
+- npm or yarn
+
+
+### Running Locally
+
+npm run dev
+
+Open [http://localhost:3000](http://localhost:3000) to view the app in your browser.
+
+---
+
+## Deployment
+
+This project is deployed on Netlify. 
+
+## License
+
+This project is licensed under the MIT License.
+
+---
+*Thank you for checking out CareerAtlas! Happy learning! 🚀*
+
+
+
+
