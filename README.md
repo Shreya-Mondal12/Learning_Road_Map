@@ -1,6 +1,6 @@
 # CareerAtlas - Learning Roadmaps
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/your-netlify-badge/deploy-status)](https://your-netlify-deploy-link.netlify.app)
+[![Netlify Status]([![Netlify Status](https://app.netlify.com/projects/learning-road-map/deploys))](https://learning-road-map.netlify.app/)
 
 ## Overview
 
